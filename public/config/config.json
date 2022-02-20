@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5DE29440D417E9D887819459F8749EcDCD500539",
+  "SCAN_LINK": "https://polygonscan.com/address/0x5de29440d417e9d887819459f8749ecdcd500539",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "nounstiger888",
+  "SYMBOL": "nst",
+  "MAX_SUPPLY": 888,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST":0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nounstiger888",
+  "SHOW_BACKGROUND": true
+}
